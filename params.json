@@ -1,6 +1,0 @@
-{
-  "name": "Swift Windows",
-  "tagline": "for Cygwin, MSVC, MinGW",
-  "body": "### Welcome to Swift Windows.\r\nThis site is created for sharing the information to run the Swift compiler on Windows. Any other patch or any pull request, as well as my own, can be included this site.\r\n\r\n### Swift for Cygwin\r\n(Cygwin)[https://cygwin.com/] is a Linux feeling environment for Windows. Currently Swift is porting on 2.5.2 64bit version, and the basic sample for Foundation can be run. But many test script will fail.\r\n\r\n### Swift for MinGW\r\n(Mingw-w64)[http://mingw-w64.org/] is an advancement fork of (MinGW)[http://mingw.org/]. MinGW is a minimalist development environment for GCC compiling on Windows. Simple Hello.swift can be run, but Foundation is not yet ported.\r\n\r\n### Swift for MSVC\r\nMSVC in here means the MS C Runtime libraries in Visual Studio 2013/2015 or later. Unlikely Cygwin or MinGW, this port does not have glibc library.\r\n\r\n### Current Status\r\nTBD",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
