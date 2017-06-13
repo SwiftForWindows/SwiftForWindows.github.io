@@ -2,9 +2,8 @@
 layout:     post
 title:      Swift for Windows 1.6 Released
 author:     Han Sangjin
-tags: 		release
 subtitle:  	includes GUI written in Swift
-category:  release
+#category:  release
 ---
 <!-- Start Writing Below in Markdown -->
 
