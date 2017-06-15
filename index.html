@@ -27,4 +27,35 @@ layout: page
     </a>
     <p class="post-meta" style="margin-bottom:5px">Posted by Han Sangjin on June 8, 2017</p>
 </div>
+<table height="20"></table>
 
+<h2>System Requirement</h2>
+Windows 10 64bit
+<table height="20"></table>
+
+<h2>How to use "Swift for Windows"</h2>
+<b>Step 1</b>: Write a basic program in Swift with your favorite editor.
+<img src="/img/sfw16_cap1.png" width=800 height=480/> 
+<table height="20"></table>
+<b>Step 2</b>: Open "Swift for Windows 1.6" and click 'Select File' to choose your file.
+<img src="/img/sfw16_cap2.png" width=800 height=480/> 
+<table height="20"></table>
+<b>Step 3</b>: Click 'Compile' to compile your program.
+<img src="/img/sfw16_cap3.png" width=800 height=480/> 
+<table height="20"></table>
+<b>Step 4</b>: Click 'Run' to run on Windows. 
+<img src="/img/sfw16_cap4.png" width=800 height=480/> 
+<table height="20"></table>
+
+<h2>wxSwift alpha version</h2>
+Above GUI program is written in Swift and the source is included.
+You can write an experimental wxSwift program as follows. 
+<pre>
+import wx
+
+var app = wx.App()
+
+_ = wx.MessageDialog(wx.Window(), "Hello Window", "HelloWin", style:wx.OK).showModal()
+</pre>
+<table height="20"></table>
+<img src="/img/sfw16_cap5.png"/>
