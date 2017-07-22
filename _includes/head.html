@@ -64,6 +64,18 @@
 
 	<!-- Custom Theme JavaScript -->
 	<script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl | prepend: site.url }}"></script>
+
+  <!-- Counter -->
+	<script>
+	var data = 'empty';
+	function display_count(cnt) {
+	  data = cnt;
+	}
+	$(document).ready(function(){
+		$('#down_cnt').append(data);
+	});
+	</script>
+	<script src="https://wxswift-home.appspot.com/count"></script>
 	
 	{% include analytics.html %}
 	
