@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Swift for Windows (Cygwin-20160913)
+title:      Swift compiler for Cygwin (20160913)
 author:     Han Sangjin
 subtitle:  	includes Foundation and Package Manager
 category:  release
@@ -9,8 +9,8 @@ category:  release
 
 What is this?
 -------------
-- Swift compiler for Windows using Cygwin 64bit toolchains.
-- Glibc module included for the Cygwin C runtime library
+- Swift compiler for Cygwin 64bit
+- Glibc module is included for the Cygwin C runtime library.
 - Foundation module and Package Manager module is included.
 
 Notice
