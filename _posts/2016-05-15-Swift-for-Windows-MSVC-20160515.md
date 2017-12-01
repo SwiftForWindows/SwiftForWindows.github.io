@@ -9,7 +9,7 @@ category:  release
 
 What is this?
 -------------
-- Swift compiler for MSVC 64bit runtime.
+- Swift compiler for MSVC 64bit runtime
 
 Notice
 -------
