@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Swift for Windows (MSVC-20160515)
+title:      Swift compiler for MSVC (20160515)
 author:     Han Sangjin
 subtitle:  	uses Visual Studio 2015 runtime
 category:  release
@@ -9,7 +9,7 @@ category:  release
 
 What is this?
 -------------
-- Swift compiler for Windows using MSVC 64bit toolchains.
+- Swift compiler for MSVC 64bit runtime.
 
 Notice
 -------
