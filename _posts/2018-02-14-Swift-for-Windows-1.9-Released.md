@@ -2,7 +2,7 @@
 layout:     post
 title:      Swift for Windows 1.9 Released
 author:     Han Sangjin
-subtitle:  	includes XcTest module
+subtitle:  	includes XCTest module
 #category:  release
 ---
 <!-- Start Writing Below in Markdown -->
@@ -16,7 +16,7 @@ Notice
 -------
 - Some bugs are fixed.
 - **`Foundation module` is included.**
-- `MinGWCrt module` and **`XcTest module`** are included. 
+- `MinGWCrt module` and **`XCTest module`** are included. 
 - A subset of the MinGW-w64 runtime is included.
 - The alpha version of <b>[wxSwift](http://www.wxswift.org)</b> module is included.
 - Compiler Source: <b>[swift-4.0.3+mingw.20180212](https://github.com/tinysun212/swift-windows/releases/tag/swift-4.0.3+mingw.20180212)</b> from tinysun212
